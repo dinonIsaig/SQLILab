@@ -1,0 +1,6 @@
+{
+  "name": "SQLi Lab: Educational Simulator",
+  "description": "An interactive environment for learning about SQL Injection vulnerabilities, including Error-Based and Blind SQLi, with a remediation laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
